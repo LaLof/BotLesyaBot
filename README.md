@@ -1,5 +1,5 @@
 # BotLesyaBot
-This bot is for vk.com/botlesya.
+This bot is for vk.com/bot_lesya.
 Bot automatically places a bet in 135kkk.
 Bot written on Python using PyAutoGui.
 To install PyAutoGui you need to write pip install pyautogui in command prompt(cmd).
